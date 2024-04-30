@@ -19,6 +19,14 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+
+
+
+
+
+
+
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -68,3 +76,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+npx create-react-app formulario-android
+cd formulario-android
+
+npm start
+
+
+"homepage": "https://tu_usuario.github.io/nombre_repositorio",
+npm install gh-pages --save-dev
+"scripts": {
+  // otros scripts...
+  "deploy": "gh-pages -d build",
+}
+npm run build
+npm run deploy
