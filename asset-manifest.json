@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formulario-android/static/css/main.f855e6bc.css",
+    "main.js": "/formulario-android/static/js/main.2da6b3c6.js",
+    "static/js/453.4733ae05.chunk.js": "/formulario-android/static/js/453.4733ae05.chunk.js",
+    "index.html": "/formulario-android/index.html",
+    "main.f855e6bc.css.map": "/formulario-android/static/css/main.f855e6bc.css.map",
+    "main.2da6b3c6.js.map": "/formulario-android/static/js/main.2da6b3c6.js.map",
+    "453.4733ae05.chunk.js.map": "/formulario-android/static/js/453.4733ae05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2da6b3c6.js"
+  ]
+}
